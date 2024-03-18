@@ -31,7 +31,7 @@ You can directly call a particular template as per the requirement. for example:
   repositories:
     - repository: Template
       type: github
-      name: your_username/BreadcrumbsAzure_ArmBuild.ado
+      name: your_username/Azure_ArmBuild.ado
       ref: <respective branch name>
       endpoint: 'githubServiceConnectioNname'
 
